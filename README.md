@@ -2,7 +2,9 @@
 
 **A habit-building experience based on small, supportive accountability groups.**
 
-[Guarda il video demo](./Insieme_Demo_IT.mp4)
+## Video demo
+
+https://github.com/user-attachments/assets/728387bb-9a64-4093-83f9-41ad3efbfd2a
 
 ## The idea
 
