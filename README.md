@@ -2,7 +2,7 @@
 
 **A habit-building experience based on small, supportive accountability groups.**
 
-[View the live product](https://insieme-abitudini.vercel.app)
+[Guarda il video demo](./Insieme_Demo_IT.mp4)
 
 ## The idea
 
@@ -38,3 +38,4 @@ The production source code, database design, configuration, internal documentati
 ---
 
 Designed and developed by [Denilson Mattos Alvarez](https://github.com/Denilson-Mattos-Alvarez).
+
