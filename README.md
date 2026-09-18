@@ -1,43 +1,46 @@
 # Insieme
 
-**A habit-building experience based on small, supportive accountability groups.**
+**A privacy-conscious product that turns personal intentions into shared, measurable progress.**
 
-## Video demo
+## Executive demo
 
-https://github.com/user-attachments/assets/728387bb-9a64-4093-83f9-41ad3efbfd2a
+[![Watch the Insieme Executive Demo](./Insieme_Executive_Demo_IT_v5_Poster.png)](./Insieme_Executive_Demo_IT_v5.mp4)
 
-## The idea
+[▶ Watch the Executive Demo in Italian](./Insieme_Executive_Demo_IT_v5.mp4)
 
-Insieme helps people build consistent habits without competition or social pressure. It combines personal progress tracking with small groups designed around compatible goals and routines.
+The demo is presented in Italian with embedded captions. It contains product mock-ups and does not expose the private-beta URL, credentials, source code, or user data.
 
-## What users can do
+## The product idea
 
-- Create and follow personal habits
-- Record daily progress
-- Join a small support group
-- Share updates and encouragement
-- Keep control of their personal data
-- Install the experience on a mobile device
+Starting a habit is often easier than sustaining it. Insieme explores a calmer form of accountability: small groups built around compatible goals, rhythms, and availability, without rankings or social pressure.
+
+The product moves beyond simple matching. It helps people turn an intention into a visible commitment through planning, check-ins, shared progress, recovery flows, and short tasks with clear ownership.
+
+## What the MVP demonstrates
+
+- Personal habit and goal setup
+- Intentional matching based on compatibility
+- Small accountability groups
+- Scheduled sessions and daily check-ins
+- Shared progress and non-judgmental recovery flows
+- Collective paths with phases, tasks, owners, and verifiable outcomes
+- Administrative monitoring and group support
+- A responsive web app and installable PWA experience
 
 ## Product principles
 
 - **Small steps:** consistency matters more than perfection
 - **Human support:** groups remain intentionally small
-- **Privacy:** personal information is handled conservatively
-- **Calm design:** the interface avoids rankings and unnecessary pressure
-- **Accessibility:** the experience is designed for desktop and mobile
+- **Privacy by design:** no production environment or user data is exposed here
+- **Calm interaction:** no rankings, public pressure, or addictive mechanics
+- **Measurable progress:** commitments and outcomes remain visible to the group
 
-## Technologies
+## Technology
 
-`Next.js` · `React` · `TypeScript` · `Supabase` · `PostgreSQL` · `PWA` · `Vercel`
+Next.js · React · TypeScript · Supabase · PostgreSQL · PWA · Vercel
 
 ## Project status
 
-Insieme is an independently developed product currently in private beta.
+Insieme is an independently developed MVP currently in private beta. This public repository is a product showcase; the production source code, database, configuration, and private environment are intentionally not published.
 
-The production source code, database design, configuration, internal documentation, and development history are intentionally kept private to protect the project's potential commercial development.
-
----
-
-Designed and developed by [Denilson Mattos Alvarez](https://github.com/Denilson-Mattos-Alvarez).
-
+Designed and developed by [Denilson Mattos Alvarez](https://www.linkedin.com/in/denilson-mattos-alvarez).
