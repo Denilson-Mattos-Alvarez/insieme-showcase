@@ -2,7 +2,7 @@
 
 **A privacy-conscious product that turns personal intentions into shared, measurable progress.**
 
-## Executive demo
+## Video demo
 
 [![Watch the Insieme Executive Demo](./Insieme_Executive_Demo_IT_v5_Poster.png)](./Insieme_Executive_Demo_IT_v5.mp4)
 
