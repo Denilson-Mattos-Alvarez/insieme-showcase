@@ -2,13 +2,13 @@
 
 **A privacy-conscious product that turns personal intentions into shared, measurable progress.**
 
-## Video demo
+## Executive demo
 
-[![Watch the Insieme Executive Demo](./Insieme_Executive_Demo_IT_v5_Poster.png)](./Insieme_Executive_Demo_IT_v5.mp4)
+[![Watch the Insieme Executive Demo](./Insieme_Executive_Demo_IT_v5_Poster.png)](./Insieme_Executive_Demo_IT_v5_GitHub.mp4)
 
-[▶ Watch the Executive Demo in Italian](./Insieme_Executive_Demo_IT_v5.mp4)
+[▶ Watch the Executive Demo in Italian](./Insieme_Executive_Demo_IT_v5_GitHub.mp4)
 
-The demo is presented in Italian with embedded captions. It contains product mock-ups and does not expose the private-beta URL, credentials, source code, or user data.
+The GitHub edition is optimized for browser playback at 720p. The demo is presented in Italian with embedded captions and does not expose the private-beta URL, credentials, source code, or user data.
 
 ## The product idea
 
