@@ -4,11 +4,17 @@
 
 ## Executive demo
 
-[![Watch the Insieme Executive Demo](./Insieme_Executive_Demo_IT_v5_Poster.png)](./Insieme_Executive_Demo_IT_v5_GitHub.mp4)
+[![Watch the Insieme portfolio demo](assets/demo/insieme-portfolio-v13-poster.jpg)](assets/demo/insieme-portfolio-v13.mp4)
 
-[▶ Watch the Executive Demo in Italian](./Insieme_Executive_Demo_IT_v5_GitHub.mp4)
+[▶ Watch the demo in Italian](assets/demo/insieme-portfolio-v13.mp4)
 
-The GitHub edition is optimized for browser playback at 720p. The demo is presented in Italian with embedded captions and does not expose the private-beta URL, credentials, source code, or user data.
+**50 seconds · 1080p · 4.45 MB · Italian captions · Denilson's synthetic voice**
+
+The animated calendar follows an illustrative reading routine: compatible groups, evening sessions, check-ins and a weekly cycle. The closing screen links directly to my GitHub and LinkedIn profiles.
+
+[Read the Italian narration](assets/demo/insieme-portfolio-v13-copione.txt) · [Download subtitles](assets/demo/insieme-portfolio-v13-it.srt)
+
+The demo uses illustrative people and data. The private-beta URL, credentials, production source code and user data remain private.
 
 ## The product idea
 

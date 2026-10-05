@@ -1,0 +1,54 @@
+1
+00:00:00,120 --> 00:00:05,380
+Insieme nasce da una sfida personale: trasformare
+un obiettivo individuale in un percorso condiviso.
+
+2
+00:00:05,640 --> 00:00:09,900
+Parti con entusiasmo,
+poi mantenere un’abitudine può diventare difficile.
+
+3
+00:00:10,175 --> 00:00:15,120
+In un piccolo gruppo, con obiettivi compatibili,
+condividi l’impegno e trovi sostegno.
+
+4
+00:00:15,400 --> 00:00:19,340
+Scegli obiettivo, frequenza e disponibilità: per esempio,
+
+5
+00:00:19,515 --> 00:00:23,900
+leggere quindici minuti,
+tre volte a settimana, la sera dopo le venti.
+
+6
+00:00:24,160 --> 00:00:29,550
+Marta completa la lettura, Luca fa check-in,
+Sara pianifica la prossima sessione.
+
+7
+00:00:29,555 --> 00:00:31,500
+Il gruppo vede i progressi e si aggiorna.
+
+8
+00:00:31,760 --> 00:00:38,180
+Pianifica, agisci, condividi e continua:
+ogni settimana il percorso ricomincia, insieme agli altri.
+
+9
+00:00:38,440 --> 00:00:43,920
+Ho ideato e sviluppato il prodotto da solo:
+strategia, esperienza utente e piattaforma web.
+
+10
+00:00:44,375 --> 00:00:45,580
+Ci lavoro da agosto.
+
+11
+00:00:45,840 --> 00:00:47,370
+Codice su GitHub.
+
+12
+00:00:47,375 --> 00:00:49,020
+Parliamone su LinkedIn.
