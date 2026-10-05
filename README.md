@@ -4,9 +4,9 @@
 
 ## Executive demo
 
-[![Watch the Insieme portfolio demo](assets/demo/insieme-portfolio-v13-poster.jpg)](assets/demo/insieme-portfolio-v13.mp4)
+[![Watch the Insieme portfolio demo](assets/demo/insieme-portfolio-v13-poster.jpg)](https://denilson-mattos-alvarez.github.io/insieme-showcase/#demo)
 
-[▶ Watch the demo in Italian](assets/demo/insieme-portfolio-v13.mp4)
+[▶ Watch the demo in Italian](https://denilson-mattos-alvarez.github.io/insieme-showcase/#demo) · [Download the video](assets/demo/insieme-portfolio-v13.mp4)
 
 **50 seconds · 1080p · 4.45 MB · Italian captions · Denilson's synthetic voice**
 
