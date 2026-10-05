@@ -2,7 +2,7 @@
 
 **A privacy-conscious product that turns personal intentions into shared, measurable progress.**
 
-## Executive demo
+## Video Demo
 
 [![Watch the Insieme portfolio demo](assets/demo/insieme-portfolio-v13-poster.jpg)](https://denilson-mattos-alvarez.github.io/insieme-showcase/#demo)
 
